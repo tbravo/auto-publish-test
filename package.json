@@ -1,7 +1,7 @@
 {
   "name": "auto-publish-test",
   "private": false,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "index.js",
   "license": "MIT"
 }
