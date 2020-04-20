@@ -13,7 +13,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v1
       with:
-        node-version: 10.0.0
+        node-version: 10.20.0
     - name: Install Dependencies
       run: yarn
     - name: Test
