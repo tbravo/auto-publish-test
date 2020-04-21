@@ -1,1 +1,1 @@
-export default 'nice!'
+export default 'nice!!!'
